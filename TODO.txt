@@ -1,0 +1,8 @@
+* Algorithm to guess next version 0.1
+* Support to plug-ins 0.1
+* Support to themes 0.1
+* Support LDAP or built-in auth 0.1
+* User can change whether it will need double approval or not 0.1
+* Plug-in to run Clirr and another one to show the size difference 0.2
+* Store binaries local or remotely 0.2
+* Save configuration using XStream or database (JDBC) 0.2
